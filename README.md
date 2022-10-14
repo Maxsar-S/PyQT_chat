@@ -1,4 +1,1 @@
-Мессенджер реализованный на Python и графическим интерфейсом реализованным с помощью PyQT.
-Также к мессенджеру подключена база данных.
-Инструкция к использованию находится в файле manual.txt.
-Выложен на PyPi.
+Messenger implemented in Python with GUI implemented using PyQT. Also a database is connected to the messenger. Instructions for use can be found in the manual.txt file. Posted on PyPi.
